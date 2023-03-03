@@ -4,6 +4,10 @@ An app to track TTRPG characters in PBP, their games, their stats, their groups,
 ## Features
 
 * Character Profile
-** Includes a link to the appropriate website
+* +Includes a link to the appropriate website
 * Character Groups
-* Post Stats
+* Post Stats, including dice rolls?
+* Quotes
+* Word Clouds
+* Account system?
+* Submission of character, group, posts
